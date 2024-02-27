@@ -13,6 +13,9 @@ N/A
 
 Use the links at the top of the page to navigate to the sections that describe what specifically makes Horiseon what it is.
 
+![Screenshot of the website](./assets/images/website-screenshot.png)
+
+This is the link to the website: https://swemee.github.io/css-demo-site/
 ## Credits
 
 N/A
